@@ -9,6 +9,8 @@ public class Evenorodd {
            
             System.out.print("Enter an integer: ");
             int number = scanner.nextInt();
+
+            System.out.println("this is master branch");
             
             
             if (number % 2 == 0) {
